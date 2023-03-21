@@ -2,6 +2,6 @@
 Frontend app
 
 Technologies used:
-  Angular | TS
-  Angular material UI
+  - Angular | TS
+  - Angular material UI
   
